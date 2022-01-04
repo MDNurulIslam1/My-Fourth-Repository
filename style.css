@@ -1,0 +1,13 @@
+h1{
+    width: 350px;
+    color: #fff;
+    font-size: 35px;
+    background-color: #00f;
+    text-transform: uppercase;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color: orangered;
+}
